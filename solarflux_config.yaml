@@ -1,0 +1,5 @@
+best_cfg:
+  lr: 0.001
+  units: 64
+optimizer: Hybrid HHO+PSO
+seq_len: 10

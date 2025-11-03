@@ -1,0 +1,5 @@
+best_cfg:
+  lr: 0.0006411540146695759
+  units: 51
+optimizer: Hybrid GWOA+WOA
+seq_len: 10
